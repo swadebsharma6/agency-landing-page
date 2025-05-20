@@ -1,5 +1,6 @@
 import Banner from "./components/Banner";
 import Header from "./components/Header";
+import Service from "./components/Service";
 
 
 
@@ -8,6 +9,7 @@ const App = () => {
     <div>
       <Header/>
       <Banner/>
+      <Service/>
     </div>
   );
 };
